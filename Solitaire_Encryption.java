@@ -1,4 +1,4 @@
-
+// This project will allow the user to input a message and have it either encrypted or decrypted, using a deck of 28 cards
 import java.util.*;
 
 public class Solitaire_Encryption {
