@@ -1,2 +1,2 @@
 # Programming-Projects
-Projects that I have been apart of and developed
+Projects that I have been part of and developed
